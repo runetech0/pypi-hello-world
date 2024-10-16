@@ -54,9 +54,7 @@ push = true
 
 "pyproject.toml" = [
     'current_version = "{version}"',
+    'version = "{version}"'
 ]
-"hello_runetech/__init__.py" = [
-    "{version}",
-    "{pep440_version}",
-]
+"hello_runetech/__init__.py" = ["{version}"]
 
