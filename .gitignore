@@ -1,0 +1,7 @@
+dist
+build
+test.py
+.mypy_cache
+.pytest_cache
+.vscode
+*egg*
